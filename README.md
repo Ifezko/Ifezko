@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m Ifeanyi a.k.a (Ifezko)</h1>
 
-- 👀 I’m a <strong>UI UX designer</strong> focused in solving users problems with my designs.
+- 👀 I’m a <strong>Product designer</strong> focused in solving users problems with my designs.
 - I'm also an <em>NFT creator and I love Web3</em> 🤗🤗🤗
 - 🌱 I’m currently learning how to design better digital products for users.
 - 💞️ I’m looking to collaborate on open source projects or Web3 projects.
