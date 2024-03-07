@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning how to design better digital products for users.
 - 💞️ I’m looking to collaborate on open source projects or Web3 projects.
 - 📫 How to reach me  
-<a href="https://twitter.com/ifezko">Twitter</a>
+<a href="https://twitter.com/0xifezko">Twitter</a>
 
 <!---
 Ifezko/Ifezko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
